@@ -12,7 +12,7 @@ const font = Plus_Jakarta_Sans({
 
 export const metadata: Metadata = {
   title: `${profile.name} — ${profile.role}`,
-  description: profile.bio,
+  
 };
 
 export const viewport: Viewport = {
