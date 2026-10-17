@@ -49,7 +49,7 @@ export default function Home() {
             {profile.role}
           </p>
           <p className="mt-3 max-w-sm text-balance text-[15px] leading-relaxed text-slate-600 dark:text-slate-200">
-            {profile.bio}
+           
           </p>
         </header>
 
